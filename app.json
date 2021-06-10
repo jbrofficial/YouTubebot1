@@ -1,5 +1,5 @@
 {
-  "name": "TG URL Uploader",
+  "name": "JBr URL Uploader",
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -14,7 +14,7 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
+  "success_url": "https://telegram.dog/crazy_rockers",
   "website": "https://github.com/SpEcHiDe/AnyDLBot",
   "repository": "https://github.com/SpEcHiDe/AnyDLBot",
   "env": {
